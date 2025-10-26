@@ -42,9 +42,9 @@ Source Code:
       discount = total * 0.20
       total -= discount
       print(f"\n20% discount!!: P{discount:.2f}")
-   
-   print(f"Customer Name: {customer_name}")
-   print(f"Total Purchase: P{total:.2f}")
+      
+      print(f"Customer Name: {customer_name}")
+      print(f"Total Purchase: P{total:.2f}")
 
 Output:
 
